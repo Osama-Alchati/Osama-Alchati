@@ -29,7 +29,7 @@ I'm a Computer Engineering student at Fenerbahçe University. I like building th
 
 ### 🚀 Featured Projects
 
-#### 🎓 S2dent · Blockchain-Based Academic Credential Platform
+#### 🎓 [S2dent](https://github.com/marouan-boumchahate/S2dent) · Blockchain-Based Academic Credential Platform
 My thesis project: a system for issuing, holding, and verifying academic credentials on Ethereum, so they can't be tampered with or forged. I built the **admin dashboard frontend** in a team, working alongside a teammate who built the backend, API, and socket infrastructure.
 
 - Role-based dashboards that follow a four-tier trust chain: **Owner → Academy → Professor → Student**
@@ -50,7 +50,6 @@ A team project: a 10-bit accumulator CPU with a block-RAM module and a self-chec
 ### 📊 GitHub Stats
 
 [![Osama's GitHub stats](https://github-readme-stats.vercel.app/api?username=Osama-Alchati&show_icons=true&hide_border=true)](https://github.com/Osama-Alchati)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Alchati&layout=compact&hide_border=true)](https://github.com/Osama-Alchati)
 
 ---
 
